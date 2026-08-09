@@ -9,8 +9,8 @@
 ## **- Learning:**
 
 ## **- Hobbies:**
-### - Listening Novels/Stories
-### - Game play (LastWar)
+##  - Listening Novels/Stories
+##  - Game play (LastWar)
 
 <!--
 **heaven-999/heaven-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
