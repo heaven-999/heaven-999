@@ -4,7 +4,13 @@
 
 # About me 
 
-## **I'm 22 years old Molecular Simulation and Machine Learning Learner** 
+## **- I'm 22 years old Molecular Simulation and Machine Learning Learner from Taiwan.** 
+
+## **- Learning:**
+
+## **- Hobbies:**
+### - Listening Novels/Stories
+### - Game play (LastWar)
 
 <!--
 **heaven-999/heaven-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
