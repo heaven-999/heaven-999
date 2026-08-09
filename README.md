@@ -4,11 +4,11 @@
 
 # About me 
 
-## **- I'm 22 years old Molecular Simulation and Machine Learning Learner from Taiwan.** 
+### **- I'm 22 years old Molecular Simulation and Machine Learning Learner from Taiwan.** 
 
-## **- Learning:**
+### **- Learning:**
 
-## **- Hobbies:**
+### **- Hobbies:**
 - Listening Novels
 * Game play (LastWar/SEER)
 + Writing auto script
