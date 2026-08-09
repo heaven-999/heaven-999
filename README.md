@@ -1,6 +1,11 @@
-# 你好👋
+# hello👋
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/heaven-999/heaven-999/blob/main/hello.png)
+
+# about me 
+
+**I'm 22 years old Molecular Simulation and Machine Learning Learner** 
+
 <!--
 **heaven-999/heaven-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
